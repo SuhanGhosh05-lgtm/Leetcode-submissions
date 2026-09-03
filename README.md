@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0088-merge-sorted-array) |
+| [1929-concatenation-of-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0032-longest-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
