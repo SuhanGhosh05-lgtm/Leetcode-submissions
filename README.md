@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0067-add-binary) |
 ## Trie
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/1929-concatenation-of-array) |
 ## Design
 |  |
@@ -158,5 +161,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
