@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0067-add-binary) |
+| [0257-binary-tree-paths](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0257-binary-tree-paths) |
 | [0389-find-the-difference](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0389-find-the-difference) |
 ## Trie
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -229,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0206-reverse-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
