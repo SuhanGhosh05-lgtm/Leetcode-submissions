@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0268-missing-number) |
+| [1486-xor-operation-in-an-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/1486-xor-operation-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0389-find-the-difference) |
+| [1486-xor-operation-in-an-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/1486-xor-operation-in-an-array) |
 ## Counting
 |  |
 | ------- |
