@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1929-concatenation-of-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/1929-concatenation-of-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -256,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0257-binary-tree-paths) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
