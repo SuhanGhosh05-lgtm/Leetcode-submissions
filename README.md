@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1929-concatenation-of-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/1929-concatenation-of-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0389-find-the-difference) |
 | [0912-sort-an-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Stack
 |  |
 | ------- |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Linked List
 |  |
 | ------- |
