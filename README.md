@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0164-maximum-gap](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0268-missing-number) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0088-merge-sorted-array) |
+| [0164-maximum-gap](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0268-missing-number) |
@@ -235,10 +237,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0912-sort-an-array) |
 ## Counting Sort
 |  |
@@ -283,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
