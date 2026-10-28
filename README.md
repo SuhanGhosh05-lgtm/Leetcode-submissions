@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0268-missing-number) |
+| [0622-design-circular-queue](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0622-design-circular-queue) |
 | [0912-sort-an-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1929-concatenation-of-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/1929-concatenation-of-array) |
@@ -197,11 +198,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0622-design-circular-queue) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0622-design-circular-queue) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0234-palindrome-linked-list) |
+| [0622-design-circular-queue](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
