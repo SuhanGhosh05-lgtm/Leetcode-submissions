@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0274-h-index) |
 | [0622-design-circular-queue](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0622-design-circular-queue) |
 | [0912-sort-an-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0274-h-index) |
 | [0389-find-the-difference](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0389-find-the-difference) |
 | [0912-sort-an-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0274-h-index) |
 | [0912-sort-an-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0912-sort-an-array) |
 ## Greedy
 |  |
