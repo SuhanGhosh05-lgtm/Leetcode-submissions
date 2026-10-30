@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0622-design-circular-queue) |
 | [0912-sort-an-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [1929-concatenation-of-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0389-find-the-difference) |
 | [0912-sort-an-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -259,11 +261,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0274-h-index) |
 | [0912-sort-an-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0912-sort-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
+| [1833-maximum-ice-cream-bars](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Linked List
 |  |
