@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0274-h-index) |
+| [0561-array-partition](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0561-array-partition) |
 | [0622-design-circular-queue](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0622-design-circular-queue) |
 | [0912-sort-an-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0274-h-index) |
 | [0389-find-the-difference](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0389-find-the-difference) |
+| [0561-array-partition](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
@@ -260,12 +262,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0274-h-index) |
+| [0561-array-partition](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0912-sort-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0011-container-with-most-water) |
+| [0561-array-partition](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
