@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/1051-height-checker) |
 | [1833-maximum-ice-cream-bars](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [1929-concatenation-of-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/1929-concatenation-of-array) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/1051-height-checker) |
 | [1833-maximum-ice-cream-bars](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/1051-height-checker) |
 | [1833-maximum-ice-cream-bars](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Greedy
 |  |
 | ------- |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Linked List
 |  |
