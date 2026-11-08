@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0274-h-index) |
+| [0493-reverse-pairs](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0493-reverse-pairs) |
 | [0561-array-partition](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0561-array-partition) |
 | [0622-design-circular-queue](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0622-design-circular-queue) |
 | [0912-sort-an-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0912-sort-an-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0268-missing-number) |
+| [0493-reverse-pairs](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0493-reverse-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Matrix
 |  |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0191-number-of-1-bits) |
+| [0493-reverse-pairs](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0912-sort-an-array) |
 ## Binary Search Tree
 |  |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -346,4 +350,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/1051-height-checker) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
