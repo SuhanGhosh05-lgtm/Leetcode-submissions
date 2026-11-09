@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/1122-relative-sort-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [1929-concatenation-of-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/1929-concatenation-of-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0389-find-the-difference) |
+| [1122-relative-sort-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/1122-relative-sort-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Two Pointers
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/1122-relative-sort-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/1122-relative-sort-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Greedy
@@ -350,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/1122-relative-sort-array) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -366,4 +371,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/0493-reverse-pairs) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/SuhanGhosh05-lgtm/Leetcode-submissions/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
